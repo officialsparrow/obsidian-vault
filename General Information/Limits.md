@@ -1,3 +1,3 @@
 - DM: 2
-- Groups: 32
+- Groups: 256
 - Servers: 500.000
