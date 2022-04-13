@@ -1,0 +1,7 @@
+-   Theme
+-   Enter is send
+-   Picture Download behavior: 1on1,groups, servers
+-   Download behavior using mobile data, Wi-Fi, roaming
+-   Font size
+-   Notifications: sounds, push, etc.
+-   Colorblind mode

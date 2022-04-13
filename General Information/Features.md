@@ -1,0 +1,11 @@
+-   Text
+-   Markdown  
+-   GIFs
+-   Emojis+custom emojis
+-   Link Highlighting and Preview
+-   Every Data Type
+-   Pictures and Videos (pictures compressed [toggle to deactivate compression])  
+-   Text as comment on the 2 points above 
+-   @-tagging (People as well as roles)
+-   Searching, etc. show 1on1,groups and servers. After clicking on server show its channels
+-   Chat backup for 1on1, 1 backup per person.

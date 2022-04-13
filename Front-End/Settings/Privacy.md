@@ -1,0 +1,10 @@
+-   Allow DM from server members
+-   who can see profile picture
+-   who can see about section
+-   read receipts
+-   who can add to groups
+-   blocked contacts
+-   who can add u as a friend
+-   (fingerprint/password protection on smartphone?)
+-   (request information?)
+-   send debug info

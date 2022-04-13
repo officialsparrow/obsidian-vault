@@ -1,0 +1,9 @@
+-   Profile Picture
+-   Username*
+-   Nickname*(first one is your username)
+-   About
+-   Phone number
+-   Email*
+-   Password*
+-   2FA (e-mail &/ google authenticator)
+-   Delete Account

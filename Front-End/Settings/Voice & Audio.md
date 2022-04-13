@@ -1,0 +1,7 @@
+-   standard input and output devices
+-   camera settings
+-   push to talk or voice activity
+-   Language
+-   Streamer Mode
+-   Change Log
+-   Logout
