@@ -1,0 +1,2 @@
+-   store location: official servers or own
+-    y/n

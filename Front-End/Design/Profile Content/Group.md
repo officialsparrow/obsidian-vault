@@ -1,0 +1,9 @@
+-   Profile picture
+-   Name
+-   Group Description
+-   Group settings [change who can write[e.g., admins only]]
+-   All Media
+-   Pinned messages
+-   Participants [change rights or kick] [invite/add people]
+-   Exit Group
+-   Delete Group
