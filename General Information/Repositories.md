@@ -12,3 +12,10 @@ graph TD;
  group-->Basic-Backend;
  server-->Basic-Backend  
 ```
+Desktop
+```mermaid
+graph TD;  
+ Win-->Desktop-repo;  
+ Mac-->Desktop-repo;
+ Linux-->Desktop-repo  
+```

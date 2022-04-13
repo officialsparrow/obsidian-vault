@@ -1,0 +1,1 @@
+The desktop is Frontend + websockets.

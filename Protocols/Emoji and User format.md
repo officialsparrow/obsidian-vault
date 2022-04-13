@@ -1,0 +1,1 @@
+For @ messages and custom emoji we use a text message, which uses a global id, and is converted client side.

@@ -1,0 +1,1 @@
+We check if magic bit and file-name-ending are the same.
